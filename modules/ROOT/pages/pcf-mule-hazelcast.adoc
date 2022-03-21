@@ -57,7 +57,7 @@ This will start a Hazelcast server node using the default configuration located 
 
 === Log4j Configuration
 
-To configure log4j just customize the log4j configuration file located in `conf/log4.xml`.
+To configure log4j just customize the log4j configuration file located in `conf/log4j.xml`.
 
 === Hazelcast Configuration
 
